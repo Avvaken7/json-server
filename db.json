@@ -1,0 +1,60 @@
+{
+    "heroes": [
+      {
+        "id": "1",
+        "name": "Перший герой",
+        "description": "Перший герой в рейтингу!",
+        "element": "fire"
+      },
+      {
+        "id": "0993e325-8424-4825-b158-14f055301fa6",
+        "name": "Вогняний герой",
+        "description": "Майже як вода, але вогонь",
+        "element": "fire"
+      },
+      {
+        "id": "a59a96e6-c17a-4c06-b4ad-dafdc8f19c5e",
+        "name": "Вітряний герой",
+        "description": "Такий же вітряний як і ти...",
+        "element": "wind"
+      },
+      {
+        "id": "48cab4b1-e2f8-4f42-84d8-c34e368452ad",
+        "name": "Водяний",
+        "description": "Буду кидатись водою",
+        "element": "water"
+      }
+    ],
+    "filters": [
+      {
+        "id": "all",
+        "name": "all",
+        "label": "Всі",
+        "className": "btn-outline-dark"
+      },
+      {
+        "id": "fire",
+        "name": "fire",
+        "label": "Вогонь",
+        "className": "btn-danger"
+      },
+      {
+        "id": "water",
+        "name": "water",
+        "label": "Вода",
+        "className": "btn-primary"
+      },
+      {
+        "id": "wind",
+        "name": "wind",
+        "label": "Вітер",
+        "className": "btn-success"
+      },
+      {
+        "id": "earth",
+        "name": "earth",
+        "label": "Земля",
+        "className": "btn-secondary"
+      }
+    ]
+  }
